@@ -1,0 +1,21 @@
+/* Product card Detail */
+
+.card-detail-desc-main{
+    height: 100vh;
+   flex-grow: 2.2;
+   margin: 30px;
+}
+.card-detail-minor-desc{
+    margin-bottom: 1rem;
+    margin-left: 3px;
+}
+.card-detail-long-desc{
+    margin-bottom: 1rem;
+}
+
+
+.card-detail-pricing-area{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+}

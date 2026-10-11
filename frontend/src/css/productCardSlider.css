@@ -1,0 +1,9 @@
+.product-card-slider-main{
+    flex-grow: 1;
+  
+
+}
+.product-card-slider-main>img{
+    width: 100%;
+    height:calc(100vh - 30%)
+}

@@ -1,0 +1,22 @@
+.text-field-input{
+    margin: 30px 0;
+    padding: 0 2rem;
+    width:30rem;
+    height: 2.5rem;
+    border: none;
+    background: #e8e8e8;
+    margin-bottom: 1px;
+}
+
+.text-field-label{
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: -20px;
+}
+.alert {
+    padding: 20px;
+    background-color: #fbd7d5; /* Red */
+    color: rgb(84, 24, 24);
+    height: 1rem;
+    /* margin-bottom: 15px; */
+  }
